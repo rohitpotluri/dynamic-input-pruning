@@ -5,7 +5,7 @@ for running an offloaded int4 Qwen3-32B on a single 15GB GPU (Tesla T4).
 ## Setup
 
 Get SSH key (local machine):
-    type C:\Users\realr\.ssh\id_vast.pub
+    type C:\Users\realr\ .ssh\id_vast.pub
 
 Install deps:
     uv pip install -r requirements.txt
